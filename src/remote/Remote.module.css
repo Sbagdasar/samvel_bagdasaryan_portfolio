@@ -1,0 +1,20 @@
+.remote{
+    min-height: 20vh;
+    background-color: #fdac4c;
+
+}
+.remoteContainer{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.title{
+    background-color: #ccc;
+}
+.hireBtn{
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 4px;
+    background-color: #706f6f;
+    color: #fff;
+}

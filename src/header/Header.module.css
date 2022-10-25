@@ -1,0 +1,10 @@
+.header {
+    height: 80px;
+    background-color: #f3ec61;
+}
+.header > div{
+    height: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}

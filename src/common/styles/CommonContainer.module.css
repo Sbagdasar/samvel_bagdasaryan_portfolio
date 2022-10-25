@@ -1,0 +1,17 @@
+.container{
+    width: 80%;
+    max-width: 1170px;
+    height: 100%;
+    margin: 0 auto;
+    border: 1px solid;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.itemContainer{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
