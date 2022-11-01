@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/samvel_bagdasaryan_portfolio/static/css/main.24e95a53.css",
+    "main.js": "/samvel_bagdasaryan_portfolio/static/js/main.7a7e2974.js",
+    "static/js/787.a8c566d8.chunk.js": "/samvel_bagdasaryan_portfolio/static/js/787.a8c566d8.chunk.js",
+    "index.html": "/samvel_bagdasaryan_portfolio/index.html",
+    "main.24e95a53.css.map": "/samvel_bagdasaryan_portfolio/static/css/main.24e95a53.css.map",
+    "main.7a7e2974.js.map": "/samvel_bagdasaryan_portfolio/static/js/main.7a7e2974.js.map",
+    "787.a8c566d8.chunk.js.map": "/samvel_bagdasaryan_portfolio/static/js/787.a8c566d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24e95a53.css",
+    "static/js/main.7a7e2974.js"
+  ]
+}
