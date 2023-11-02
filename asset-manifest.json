@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/samvel_bagdasaryan_portfolio/static/css/main.073c9b0a.css",
+    "main.js": "/samvel_bagdasaryan_portfolio/static/js/main.96e71f37.js",
+    "static/js/787.59e0d8be.chunk.js": "/samvel_bagdasaryan_portfolio/static/js/787.59e0d8be.chunk.js",
+    "static/media/logo.svg": "/samvel_bagdasaryan_portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/samvel_bagdasaryan_portfolio/index.html",
+    "main.073c9b0a.css.map": "/samvel_bagdasaryan_portfolio/static/css/main.073c9b0a.css.map",
+    "main.96e71f37.js.map": "/samvel_bagdasaryan_portfolio/static/js/main.96e71f37.js.map",
+    "787.59e0d8be.chunk.js.map": "/samvel_bagdasaryan_portfolio/static/js/787.59e0d8be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.96e71f37.js"
+  ]
+}
